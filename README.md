@@ -1,6 +1,6 @@
 # SkoleTestGruppeArbejde
 For at teste om man kan arbejde sammen.
 
-hej med dig (kir)
+hej med dig
 
 jamen halløjsa
