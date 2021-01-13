@@ -1,2 +1,2 @@
 # SkoleTestGruppeArbejde
-For at teste om man kan arbejde sammen
+For at teste om man kan arbejde sammen.
